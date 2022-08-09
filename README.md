@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 
 
-- 🌱 I’m currently learning IOS development with Swift,SwiftUI
+- 🌱 Self taught IOS developer with Swift,SwiftUI
 
 
 
