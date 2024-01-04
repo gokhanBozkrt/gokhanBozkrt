@@ -21,8 +21,7 @@ Here are some ideas to get you started:
 
 
 
-I graduated Economics in 2016 and decided to become a software developer.I got my first job as an impact analyst in a software company  Nish BS in Ankara.My current is in agile environment I complete my tasks within two weeks - a sprint- by SQL, PLSQL.
-I have been learning Swift,SwiftUI to develop mobile apps for IOS. The other technologies will be listed in toolbox below.
+iOS Developer
 
 
 
